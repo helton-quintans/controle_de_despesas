@@ -26,7 +26,7 @@
 
 ## Sobre o Controle de Despesas
 
-Aplicação que permite ao usuário ter maior acertividade no controle financeiro pessoal registrando entradas e saídas financeiras. Existe a possibilidade de adição, edição ou exclusão das transações além do armazenamentos e persistência dos dados no local storage.
+Aplicação que permite o usuário ter maior acertividade no controle financeiro pessoal registrando entradas e saídas financeiras. Existe a possibilidade de adição, edição ou exclusão das transações além do armazenamentos e persistência dos dados no local storage.
 
 ## Tecnologias
 
