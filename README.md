@@ -10,10 +10,8 @@
 </p>
 
 <p align="center">
-    <img height="380em" width="100%" src="src/images/toReadme/yan-capa.png"/>
+    <img src="images/toReadme/desktop-and-mobile.png"/>
 </p>
-
-<img align="right" height="460em" src="src/images/toReadme/yanbot.png"/>
 
 ## Tópicos
 
